@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "27"
+mappingDefinitions:
+  DESTINATION:
+    database: dirvin_dev
+    schema: dev_environment
+  SOURCE:
+    database: coalesce
+    schema: sample_data
+name: Databricks Environment
+type: Environment
